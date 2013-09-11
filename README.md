@@ -1,4 +1,3 @@
 Lab
 ===
-
-Lab Resources
+Company wide lab resouces repo
